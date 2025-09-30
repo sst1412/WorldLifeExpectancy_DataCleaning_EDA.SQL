@@ -6,7 +6,7 @@ The workflow demonstrates SQL proficiency in **data quality assurance**, **gap-f
 ---
 
 ## 📂 Project Structure  
-
+ 
 - 📜 **WorldLifeExpectancy_DataCleaning.sql** → SQL scripts for cleaning raw dataset (deduplication, missing value handling, imputation).  
 - 📊 **WorldLifeExpectancy_ExploratoryDataAnalysis.sql** → EDA queries analyzing trends, country-level differences, and correlations.  
 - 🧾 **Cleaned_Data_WorldLifeExpectancy.csv** → Final, analysis-ready dataset.  
