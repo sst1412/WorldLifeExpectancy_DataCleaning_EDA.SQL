@@ -1,4 +1,4 @@
-# 🌍 World Life Expectancy — SQL Project   
+# 🌍 **World Life Expectancy — SQL Project**   
 
 This project explores **global life expectancy trends (2007–2022)** using **SQL-based data cleaning and exploratory data analysis (EDA)**.  
 The workflow demonstrates SQL proficiency in **data quality assurance**, **gap-filling imputation**, and **analytical queries** to uncover relationships between **life expectancy, GDP, health indicators, and development status**.  
